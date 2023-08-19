@@ -1,5 +1,5 @@
 **------------Sample Contracts------------**
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 **Decentralized KYC Verification**
 
 **Agenda**
@@ -24,6 +24,23 @@ h. Allow bank to add new customer
 i. View bank data and total KYC count
 j. Block bank from adding any new customer
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Develop a Library Smart Contract**
-  Objective - To devlop a Library Smart Contract that allows following functions - addition of book, Query of book by bookID, transfer of ownership.
   
+  Objective - To devlop a Library Smart Contract that allows following functions - addition of book, Query of book by bookID, transfer of ownership.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  
+**Create a Custom Token and Deploy It on Ropsten Network** 
+
+Description - To develop a smart contract to issue custom ERC-20 token
+Tools required: Ubuntu, web browser, Remix IDE
+Prerequisites: Metamask, Test Faucet, Etherscan
+
+Steps followed:
+Creating the custom token smart contract using the text editor
+Compiling the contract using Injected Web3 and Metamask
+Deploying the contract on the Ropsten network using Metamask
+
+----------------------------------------------------------------------------------------------------------------------------------------------------  
