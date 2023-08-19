@@ -1,3 +1,5 @@
+**------------Sample Contracts------------**
+
 **Decentralized KYC Verification**
 
 **Agenda**
@@ -21,3 +23,7 @@ g. View customer data
 h. Allow bank to add new customer 
 i. View bank data and total KYC count
 j. Block bank from adding any new customer
+
+**Develop a Library Smart Contract**
+  Objective - To devlop a Library Smart Contract that allows following functions - addition of book, Query of book by bookID, transfer of ownership.
+  
